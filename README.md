@@ -21,11 +21,11 @@ numpy==1.21.4
 ------------
 
 <br>
-<p align="center">
+<p>
   <img src="/images/glob.PNG">
 </p>
 
 <br>
-<p align="center">
+<p>
   <img src="/images/loc.PNG">
 </p>
