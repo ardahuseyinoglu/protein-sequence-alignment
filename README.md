@@ -17,3 +17,15 @@ An output.txt file will be created, which includes the alignments of the sequenc
 
 **Requirements** <br>
 numpy==1.21.4
+
+------------
+
+<br>
+<p align="center">
+  <img src="/images/glob.PNG">
+</p>
+
+<br>
+<p align="center">
+  <img src="/images/local.PNG">
+</p>
