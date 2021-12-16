@@ -27,5 +27,5 @@ numpy==1.21.4
 
 <br>
 <p>
-  <img src="/images/loc.PNG" width="370" height="200">
+  <img src="/images/loc.PNG" width="320" height="200">
 </p>
