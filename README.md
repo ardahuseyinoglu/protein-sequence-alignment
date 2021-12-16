@@ -22,10 +22,10 @@ numpy==1.21.4
 
 <br>
 <p>
-  <img src="/images/glob.PNG" width="640" height="480">
+  <img src="/images/glob.PNG" width="640" height="450">
 </p>
 
 <br>
 <p>
-  <img src="/images/loc.PNG" width="640" height="480">
+  <img src="/images/loc.PNG" width="540" height="375">
 </p>
